@@ -1,0 +1,10 @@
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\bin\Debug\DiscordHijacking.exe.config
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\bin\Debug\DiscordHijacking.exe
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\bin\Debug\DiscordHijacking.pdb
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\obj\Debug\DiscordHijacking.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\obj\Debug\DiscordHijacking.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\obj\Debug\DiscordHijacking.Properties.Resources.resources
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\obj\Debug\DiscordHijacking.csproj.GenerateResource.cache
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\obj\Debug\DiscordHijacking.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\obj\Debug\DiscordHijacking.exe
+C:\Users\frank\source\repos\DiscordHijacking\DiscordHijacking\obj\Debug\DiscordHijacking.pdb
